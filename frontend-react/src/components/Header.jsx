@@ -1,5 +1,5 @@
 import  { useContext } from 'react'
-import logo from '/public/assets/stock-prediction-high-resolution-logo.png';
+import logo from '/assets/stock-prediction-high-resolution-logo.png';
 import Button from './Button';
 import { Link,useNavigate } from 'react-router-dom';
 import { AuthContext } from '../AuthProvider';
